@@ -1,6 +1,5 @@
 import os
 image_scale = 1000 #1000 mean lenght of height image
-round_pose = 5 #----> less than number of image
 scale = 1 #default is 1 ---->round 2:4k | 4/3:2k | 1:FHD **is depends on your webcam res
 cam_type = "Hor" #"Hor = Horizontal cam, Ver = Vertical cam"
 cam_number = 0 #default is 0 choose your camera devices
